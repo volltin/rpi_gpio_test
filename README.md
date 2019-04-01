@@ -17,6 +17,15 @@ Debug (gdb):
 make
 make debug
 ```
+
+Debug example:
+```
+(gdb) layput asm
+(gdb) b user
+(gdb) r
+(gdb) ni
+```
+
 ## Example
 
 ```
