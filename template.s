@@ -31,7 +31,7 @@ svc    #0
 
 /* user code start */
 
-{{user_code}}
+{user_code}
 
 /* user code end */
 
