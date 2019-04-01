@@ -29,6 +29,7 @@ ldr    r5, =0x3F003    /* offset */
 mov    r7, #192        /* mmap2 */
 svc    #0
 
+user:
 /* user code start */
 
 {user_code}
