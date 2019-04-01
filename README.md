@@ -25,6 +25,7 @@ Debug example:
 (gdb) r
 (gdb) ni
 (gdb) p/x $r0
+(gdb) disp/x $r1
 ```
 
 ## Example
