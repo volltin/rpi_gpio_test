@@ -24,6 +24,7 @@ Debug example:
 (gdb) b user
 (gdb) r
 (gdb) ni
+(gdb) p/x $r0
 ```
 
 ## Example
